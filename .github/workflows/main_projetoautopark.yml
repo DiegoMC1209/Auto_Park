@@ -60,4 +60,4 @@ jobs:
         with:
           app-name: 'ProjetoAutoPark'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_E7F247268D1D469C9ECB580821FF1DFA }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_CB658810685B48C29F9444CEFBAA9BCD }}
